@@ -1,0 +1,10 @@
+setuptools
+wheel
+pep8
+sqlalchemy
+mysqlclient
+Flask
+flask_cors
+flasgger
+pathlib2
+jsonschema==3.0.1
